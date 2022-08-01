@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\bin\Debug\net6.0\identificationNumber.exe
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\bin\Debug\net6.0\identificationNumber.deps.json
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\bin\Debug\net6.0\identificationNumber.runtimeconfig.json
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\bin\Debug\net6.0\identificationNumber.dll
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\bin\Debug\net6.0\identificationNumber.pdb
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\obj\Debug\net6.0\identificationNumber.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\obj\Debug\net6.0\identificationNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\obj\Debug\net6.0\identificationNumber.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\obj\Debug\net6.0\identificationNumber.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\obj\Debug\net6.0\identificationNumber.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\obj\Debug\net6.0\identificationNumber.dll
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\obj\Debug\net6.0\refint\identificationNumber.dll
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\obj\Debug\net6.0\identificationNumber.pdb
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\obj\Debug\net6.0\identificationNumber.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\identificationNumber\identificationNumber\obj\Debug\net6.0\ref\identificationNumber.dll
